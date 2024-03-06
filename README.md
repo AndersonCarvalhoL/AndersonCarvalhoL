@@ -11,7 +11,6 @@
 
 ## About Me:
 
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndersonCarvalhoL)](https://github.com/AndersonCarvalhoL)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersoncarvalhol/)]( https://www.linkedin.com/in/andersoncarvalhol/)
 
